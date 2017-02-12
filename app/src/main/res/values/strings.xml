@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventBusExample</string>
+    <string name="first_screen_message_from_second">Message from second screen: </string>
+    <string name="second_screen_message_from_first">Message from first screen: </string>
+    <string name="first_screen_message_to_second">Message to second screen</string>
+    <string name="second_screen_message_to_first">Message to first screen</string>
+    <string name="send">send</string>
+</resources>
